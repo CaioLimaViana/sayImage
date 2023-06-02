@@ -2,18 +2,18 @@
 
 sayImage: Ferramenta de Áudio Descrição do Ambiente para Deficientes Visuais
 
-#Descrição do Projeto
+# Descrição do Projeto
 
 sayImage é uma ferramenta baseada em IA que fornece áudio descrição do ambiente em tempo real para auxiliar deficientes visuais na locomoção urbana. Através de técnicas avançadas de processamento de imagem e reconhecimento de padrões, a ferramenta é capaz de identificar e descrever objetos, obstáculos e outras informações relevantes do ambiente ao redor do usuário.
 
-#Recursos Principais
+# Recursos Principais
 
     Geração de áudio descrição em tempo real do ambiente utilizando IA
     Reconhecimento de objetos, obstáculos e elementos relevantes do ambiente urbano
     Reconhecimento de caminhada para iniciar a descrição quando o usuario parar de caminhar
     Botão para iniciar o reconhecimento de voz,onde o usuario poderá realizar perguntas sobre o ambiente capturado na imagem
 
-#Pré-requisitos
+# Pré-requisitos
 
 verifique se você possui os seguintes requisitos:
 
@@ -21,7 +21,7 @@ verifique se você possui os seguintes requisitos:
     Pacotes Python listados em requirements.txt instalados
     Conexão estável com a internet
 
-#Instalação
+# Instalação
 
     Clone o repositório do ÁudioVisão para o seu ambiente local:
 
@@ -37,7 +37,7 @@ Instale as dependências necessárias utilizando o pip:
 
     instalar as dependencias com o comando: pip install -r requirements.txt
 
-#Uso
+# Uso
 
     Execute o script principal do sayImage:
 
@@ -47,7 +47,7 @@ Instale as dependências necessárias utilizando o pip:
     
     é possivel usar uma vpn ou outros metodos para acesso de uma rede externa
 
-#Contribuição
+# Contribuição
 
 Contribuições são bem-vindas! Se você quiser contribuir com o ÁudioVisão, siga os passos abaixo:
 
@@ -57,19 +57,19 @@ Contribuições são bem-vindas! Se você quiser contribuir com o ÁudioVisão, 
     Faça push para a branch (git push origin feature/nova-feature)
     Abra um Pull Request
 
-#Autores
+# Autores
 
     Caio Lima Viana
     Ana Lidia Gomes
 
-#Licença
+# Licença
 
 Este projeto está licenciado sob a Licença MIT.
 Contato
 
 Se você tiver alguma dúvida ou sugestão em relação ao sayImage, entre em contato conosco pelo email: Caio.projectmaster@gmail.com
 
-#modelos usados:
+# modelos usados:
 
 https://huggingface.co/dandelin/vilt-b32-finetuned-vqa
 
