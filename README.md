@@ -23,7 +23,7 @@ verifique se você possui os seguintes requisitos:
 
 # Instalação
 
-    Clone o repositório do ÁudioVisão para o seu ambiente local:
+    Clone o repositório do sayImage para o seu ambiente local:
 
     git clone https://github.com/CaioLimaViana/sayImage.git
 
